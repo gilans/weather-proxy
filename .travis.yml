@@ -14,7 +14,7 @@ before_install:
 
 script:
   # build docker images
-  - ./build.sh
+  - docker build --tag suarezgilberto/weather-proxy .
   - docker tag suarezgilberto/weather-proxy registry.heroku.com/$HEROKU_APP_NAME/web
 
 deploy:
