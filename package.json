@@ -1,0 +1,20 @@
+{
+  "name": "weather-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo no test for this project"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilans/weather-proxy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gilans/weather-proxy/issues"
+  },
+  "homepage": "https://github.com/gilans/weather-proxy#readme"
+}
