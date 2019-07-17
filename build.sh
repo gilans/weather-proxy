@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build . -t suarezgilberto/weather-proxy
+docker build -t suarezgilberto/weather-proxy .
